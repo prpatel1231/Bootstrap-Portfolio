@@ -1,8 +1,8 @@
+/* styles applied to all html */
 body {
     height: 100%;
     background: url(../assets/images/concrete_seamless.png);
 }
-
 .navbar-expand-lg {
     background-color: #ffffff;
     height: 150px;
@@ -21,15 +21,15 @@ body {
     font-weight: bold;
     float: right;
 }
+
+/* index.html css styles */
 #aboutMe {
-    margin-left: 25px;
     background-color: #ffffff;   
     padding-bottom: 20px;
 }
 #aboutMe h1 {
     color: #4aaaa5;
 }
-
 #aboutMe img {
     float: left;
     padding-right: 5px;
