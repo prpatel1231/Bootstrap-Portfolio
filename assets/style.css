@@ -26,6 +26,8 @@ body {
 #aboutMe {
     background-color: #ffffff;   
     padding-bottom: 20px;
+    margin-bottom: 20px;
+    height: ;
 }
 #aboutMe h1 {
     color: #4aaaa5;
@@ -37,4 +39,10 @@ body {
 #aboutMe p {
     display: inline;
     line-height: 1.5px;
+}
+
+footer {
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: auto;
 }
